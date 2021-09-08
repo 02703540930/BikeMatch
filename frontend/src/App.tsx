@@ -13,7 +13,7 @@ function App() {
 
         <div className="row px-3">
           <div className="col-sm-6">
-            <h5 className="text-center text-secondary">Km dos Ciclistas nos seus BikeMatchs</h5>
+            <h5 className="text-center text-secondary">Km dos Ciclistas nos BikeMatchs que participei</h5>
             <BarChart />
           </div>
           <div className="col-sm-6">
