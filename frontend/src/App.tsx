@@ -17,13 +17,13 @@ function App() {
             <BarChart />
           </div>
           <div className="col-sm-6">
-            <h5 className="text-center text-secondary">Participação dos BikeMatchs</h5>
+            <h5 className="text-center text-secondary">% Participação dos BikeMatchs</h5>
             <DonutsChart />
           </div>
         </div>
 
         <div className="py-3">
-          <h2 className="text-primary">Seus Bike Matchs: Distância 295,1 km e Tempo 15:45 h </h2>
+          <h2 className="text-primary">Meus Bike Matchs: Distância 295,1 km e Tempo 15:45 h </h2>
         </div>
 
         <DataTable></DataTable>
