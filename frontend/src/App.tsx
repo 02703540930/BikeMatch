@@ -9,7 +9,7 @@ function App() {
     <> 
       <NavBar />
       <div className="container">
-        <h1 className="text-primary py-3">Dashboard Bike Match - Ricardo Hack</h1>
+        <h1 className="text-primary py-3">Dashboard BikeMatch - Ricardo Hack</h1>
 
         <div className="row px-3">
           <div className="col-sm-6">
@@ -23,7 +23,7 @@ function App() {
         </div>
 
         <div className="py-3">
-          <h2 className="text-primary">Meus Bike Matchs: Distância 295,1 km e Tempo 15:45 h </h2>
+          <h2 className="text-primary">Meus BikeMatchs: Distância 295,1 km e Tempo 15:45 h </h2>
         </div>
 
         <DataTable></DataTable>
